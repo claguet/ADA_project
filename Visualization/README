@@ -1,0 +1,7 @@
+To use:
+Double click at choropleth_cantons.html
+
+
+To edit: 
+Display: open choropleth_cantons.html with text editor
+Canton features: open geojson_edit.ipynb in python

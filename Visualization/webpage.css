@@ -1,0 +1,48 @@
+header#site-header {
+    width: 100%;
+    height: 4cm;
+    background-image:url("demographic.jpeg");
+}
+div#title{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    font-family: 'Myriad Pro';
+}
+
+div#intro{
+    width: 90%;
+    display: block;
+    margin: auto;
+    height: 9cm;
+    font-family: 'Myriad Pro';
+}
+
+div#texte_intro{
+    text-align: justify;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    line-height: 20px;
+}
+
+div#map{
+    display: block;
+    margin: auto;
+    width: 90%;
+}
+
+footer{
+    width: 90%;
+    display: block;
+    margin: auto;
+    font-family: 'Myriad Pro';
+}
+
+.label {
+    font-size: 1.2em;
+    font-weight: 600;
+    font-family: 'Myriad Pro';
+    /* Use color, background, set margins for offset, etc */
+}
